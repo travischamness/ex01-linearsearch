@@ -1,5 +1,16 @@
+/**
+* CS V15 Data Structures and Algorithms
+* CRN:
+* Assignment: Linear Search
+*
+* Statement of code ownership: I hereby state that I have written all of this
+* code and I have not copied this code from any other person or source.
+*
+* @author Travis Danford Chamness
+*/
+
 #include<iostream>
-#include "linearSearch.h"
+#include "linearsearch.h"
 using edu::vcccd::vc::csv15::find;
 
 int main(int argc, char *argv[]) {
